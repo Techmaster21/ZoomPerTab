@@ -1,0 +1,2 @@
+# PerTabZoom
+Simple chrome extension
